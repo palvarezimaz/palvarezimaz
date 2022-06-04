@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Software Engineering**
 
-- 🇦🇷🇦🇺 I am originally from Buenos Aires, Argentina **But I now live in Melbourne, Australia**
+- 🇦🇷🇦🇺 I am originally from Buenos Aires, Argentina, but I now live in Melbourne, Australia
 
 - 🕹 I’m looking to collaborate on **open source projects**
 
