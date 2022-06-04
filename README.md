@@ -7,7 +7,7 @@
 
 - 🕹 I’m looking to collaborate on **open source projects**
 
-- 📜Background **I have a degree in Philosophy and plenty of corporative and teaching experience**
+- 📜Background: **I have a degree in Philosophy and plenty of corporative and teaching experience**
 
 - 💬 Ask me about **anything and everything!**
 
