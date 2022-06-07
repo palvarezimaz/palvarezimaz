@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">I'm a passionate and curious Junior Software Engineer, currently doing a Software Engineering Immersive Bootcamp at General Assembly</h3>
 
-- 🔭 I’m currently studying **Software Engineering**
-
 - 🇦🇷🇦🇺 I am originally from Buenos Aires, Argentina, but I now live in Melbourne, Australia
 
 - 🕹 I’m looking to collaborate on **open source projects**
