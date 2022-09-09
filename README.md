@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h2 align="center">Visit my porfolio at <a href="https://pabloai.net" target="blank">pabloai.net</a></h2>
-<h3 align="center">I'm a passionate and curious Junior Software Engineer, currently doing a Software Engineering Immersive Bootcamp at General Assembly</h3>
+<h3 align="center">I'm a passionate and curious Junior Software Engineer, recently graduated from a Software Engineering Immersive Bootcamp and currently employed as an Instructional Assistant at General Assembly</h3>
 
 - 🇦🇷🇦🇺 I am originally from Buenos Aires, Argentina, but I now live in Melbourne, Australia
 
 - 🕹 I’m looking to collaborate on **open source projects**
 
-- 📜Background: **I have a degree in Philosophy and plenty of corporative and teaching experience**
+- 📜Background: **I have a degree in Philosophy and plenty of corporative and teaching experience in Philosophy, Ethics and Public Speaking among other humanistic subjects**
 
 - 💬 Ask me about **anything and everything!**
 
