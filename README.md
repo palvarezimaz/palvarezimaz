@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h2 align="center">Visit my porfolio at <a href="https://pabloai.net" target="blank">pabloai.net</a></h2>
-<h3 align="center">I'm a passionate and curious Junior Software Engineer, recently graduated from a Software Engineering Immersive Bootcamp and currently employed as an Instructional Assistant at General Assembly</h3>
+<h3 align="center">I'm a passionate and curious Junior Software Engineer, recently graduated from a Software Engineering Immersive Bootcamp and currently employed as an Instructional Associate at General Assembly</h3>
 
 - 🇦🇷🇦🇺 I am originally from Buenos Aires, Argentina, but I now live in Melbourne, Australia
 
