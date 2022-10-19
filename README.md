@@ -2,6 +2,10 @@
 <h2 align="center">Visit my porfolio at <a href="https://pabloai.net" target="blank">pabloai.net</a></h2>
 <h3 align="center">I'm a passionate and curious Junior Software Engineer, recently graduated from a Software Engineering Immersive Bootcamp and currently employed as an Instructional Associate at General Assembly</h3>
 
+<h3>I love building apps that fully take into account the user. I believe that it has to make sense to them</h3>
+<h3>I also love working in teams, as I am very sociable. I've found that the Agile methodology is a great approach to organize the workflow</h3>
+
+<h4>Some more info about me</h4>
 - 🇦🇷🇦🇺 I am originally from Buenos Aires, Argentina, but I now live in Melbourne, Australia
 
 - 🕹 I’m looking to collaborate on **open source projects**
