@@ -7,6 +7,7 @@
 <h3>I also love working in teams, as I am very sociable. I've found that the Agile methodology is a great approach to organize the workflow</h3>
 
 <h4>Some more info about me</h4>
+
 - 🇦🇷🇦🇺 I am originally from Buenos Aires, Argentina, but I now live in Melbourne, Australia
 
 - 🕹 I’m looking to collaborate on **open source projects**
