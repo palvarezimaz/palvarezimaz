@@ -4,7 +4,7 @@
 
 <h3>I love building user-focused apps that fully take into account their needs. I believe that the app has to make sense to them</h3>
 
-<h3>I also love working in teams, as I am very sociable. I've found that the Agile methodology is a great approach to organize the workflow</h3>
+<h3>I also love working in teams, as I am very sociable, and I've also found that the Agile methodology is a great approach to organize the team's  workflow.</h3>
 
 <h4>Some more info about me</h4>
 
