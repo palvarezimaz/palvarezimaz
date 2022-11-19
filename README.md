@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h2 align="center">Visit my porfolio at <a href="https://pabloai.net" target="blank">pabloai.net</a></h2>
-<h3 align="center">I'm a passionate and curious Junior Software Engineer, recently graduated from a Software Engineering Immersive Bootcamp and currently employed as an Instructional Associate at General Assembly</h3>
+<h3 align="center">I'm a passionate and curious Junior Software Engineer, recently graduated from a Software Engineering Immersive Bootcamp and currently employed as an Instructional Associate at General Assembly.</h3>
 
-<h3>I love building user-focused apps that fully take into account their needs. I believe that the app has to make sense to them</h3>
+<h3>I love building user-focused apps that fully take into account their needs. I believe that the app has to make sense to them.</h3>
 
 <h3>I also love working in teams, as I am very sociable, and I've also found that the Agile methodology is a great approach to organize the team's  workflow.</h3>
 
