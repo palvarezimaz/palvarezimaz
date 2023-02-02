@@ -12,7 +12,9 @@
 
 - 🕹 I’m looking to collaborate on **open source projects**
 
-- 📜Background: **I have a degree in Philosophy and plenty of corporative and teaching experience in Philosophy, Ethics and Public Speaking among other humanistic subjects**
+- 📜Background: **I have a degree in Philosophy and plenty of corporative and teaching experience in Philosophy, Ethics and Technology and Public Speaking among other humanistic subjects**
+
+- 📜Interests: I did some courses on AI by the University of Helsinky & Reaktor (Online). I've even wrote a paper on AI and religion (an overview of the state of the art), but I need to polish it before submit it for evaluation!
 
 - 💬 Ask me about **anything and everything!**
 
