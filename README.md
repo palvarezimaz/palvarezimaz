@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h2 align="center">Visit my porfolio at <a href="https://pabloai.net" target="blank">pabloai.net</a></h2>
-<h3 align="center">I'm a passionate and curious Junior Software Engineer, recently graduated from a Software Engineering Immersive Bootcamp and currently employed as an Instructional Associate at General Assembly.</h3>
+<h2 align="center">Visit my portfolio at <a href="https://pabloai.net" target="blank">pabloai.net</a></h2>
+<h3 align="center">I'm a passionate and curious Junior Software Engineer; I graduated from a Software Engineering Immersive Bootcamp at General Assembly, where I also worked as an Instructional Associate. I am currently employed as a Graduate Software Engineer.</h3>
 
 <h3>I love building user-focused apps that fully take into account their needs. I believe that the app has to make sense to them.</h3>
 
-<h3>I also love working in teams, as I am very sociable, and I've also found that the Agile methodology is a great approach to organize the team's  workflow.</h3>
+<h3>I also love working in teams, as I am very sociable, and I've also found that the Agile methodology is a great approach to organising the team's  workflow.</h3>
 
 <h4>Some more info about me</h4>
 
@@ -12,9 +12,9 @@
 
 - 🕹 I’m looking to collaborate on **open source projects**
 
-- 📜Background: **I have a degree in Philosophy and plenty of corporative and teaching experience in Philosophy, Ethics and Technology and Public Speaking among other humanistic subjects**
+- 📜Background: **I have a degree in Philosophy and plenty of corporative and teaching experience in Philosophy, Ethics and Technology and Public Speaking, among other humanistic subjects**
 
-- 📜Fun(?) facts: I did some courses on AI by the University of Helsinky & Reaktor (Online). I've even wrote a paper on AI and religion (an overview of the state of the art), but I need to polish it before submit it for evaluation!
+- 📜Fun(?) facts: I did some courses on AI at the University of Helsinki & Reaktor (Online). I've even written a paper on AI and religion (an overview of the state of the art), but I need to polish it before submitting it for evaluation!
 
 - 💬 Ask me about **anything and everything!**
 
