@@ -2,10 +2,6 @@
 <h2 align="center">Visit my portfolio at <a href="https://pabloai.net" target="blank">pabloai.net</a></h2>
 <h3 align="center">I'm a passionate and curious Junior Software Engineer; I graduated from a Software Engineering Immersive Bootcamp at General Assembly, where I also worked as an Instructional Associate. I am currently employed as a Graduate Software Engineer.</h3>
 
-<h3>I love building user-focused apps that fully take into account their needs. I believe that the app has to make sense to them.</h3>
-
-<h3>I also love working in teams, as I am very sociable, and I've also found that the Agile methodology is a great approach to organising the team's  workflow.</h3>
-
 <h4>Some more info about me</h4>
 
 - 🇦🇷🇦🇺 I am originally from Buenos Aires, Argentina, but I now live in Melbourne, Australia
