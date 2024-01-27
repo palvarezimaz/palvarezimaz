@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h2 align="center">Visit my portfolio at <a href="https://pabloai.net" target="blank">pabloai.net</a></h2>
-<h3 align="center">I'm a passionate and curious Junior Software Engineer; I graduated from a Software Engineering Immersive Bootcamp at General Assembly, where I also worked as an Instructional Associate. I am currently employed as a Graduate Software Engineer.</h3>
+<h3 align="center">I'm a passionate and curious Software Engineer; I graduated from a Software Engineering Immersive Bootcamp at General Assembly, where I also worked as an Instructional Associate. I am currently employed as a Graduate Software Engineer.</h3>
 
 <h4>Some more info about me</h4>
 
